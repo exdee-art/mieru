@@ -74,4 +74,4 @@ Use GitHub issue.
 
 Use of this software is subject to the GPL-3 license.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=enfein/mieru&type=Date)](https://www.star-history.com/#enfein/mieru&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=exdee-art/mieru&type=Date)](https://www.star-history.com/#exdee-art/mieru&Date)
